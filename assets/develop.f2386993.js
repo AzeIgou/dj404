@@ -1,1 +1,0 @@
-import{R as e}from"./index.7dddb93e.js";const s=s=>e.get({url:"/mobile/fz-develop/selectDevelopList",data:s}),d=s=>e.get({url:"/mobile/fz-develop/TcSelectDevelopList",data:s}),t=s=>e.post({url:"/mobile/fz-develop/updateZsAddress",data:s}),a=s=>e.post({url:"/mobile/fz-develop/updateYsAddress",data:s});export{d as a,a as b,s as g,t as s};

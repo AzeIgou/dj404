@@ -1,1 +1,0 @@
-import{R as a}from"./index.7dddb93e.js";const p=p=>a.get({url:"/fz-mobile-approval/selectApprovalList",data:p}),t=p=>a.post({url:"/mobile/fz-approval/updateApplicationPmAddress",data:p}),o=p=>a.post({url:"/mobile/fz-approval/updatePmBasicSituationAddress",data:p});export{o as a,p as g,t as u};

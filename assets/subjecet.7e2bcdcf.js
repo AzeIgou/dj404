@@ -1,0 +1,1 @@
+import{R as e}from"./index.f8f0a8a6.js";const t=t=>e.get({url:"/mobile/djsc/subject/selectSubjectList",data:t}),s=t=>{const s=`?code=${t.code}`;return e.delete({url:"/mobile/djsc/subject/deleteSubject"+s})},c=t=>e.get({url:"/mobile/djsc/subject/selectSubjectByCode",data:t}),d=t=>e.post({url:"/mobile/djsc/subject/addSubject",data:t});export{c as a,d as b,s as d,t as g};

@@ -1,0 +1,1 @@
+import{R as a}from"./index.f8f0a8a6.js";const o=o=>a.get({url:"/fz-mobile-approval/selectPCApprovalList",data:o}),r=o=>a.post({url:"/fz-mobile-approval/updatePreparatoryPartyInspectionForm",data:o});export{o as g,r as u};
